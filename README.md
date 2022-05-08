@@ -16,3 +16,7 @@ system.7z.006**
 汉化补丁会修改system.bin写入汉化文件  
 Windows10下汉化补丁无法修正注册列表  
 需要手动修改注册列表为乱码即可运行  
+# 说明
+由于 Otoboku - Maidens Are Falling for Me! - (既英文无码版)  
+其中存在一张CG仍然为有码  
+故补丁内也存在一张CG仍为有码  
